@@ -5,3 +5,5 @@ Su funcionalidad es predecir en el nivel (superior, alto, medio, bajo) que se en
 
 Este estudio fue realizado utilizando el modelo no supervisado K-Means y sus resultados para la API fueron establecidos mediante los clusters encontrados.
 
+Para su correcto funcionamiento, se debe instalar las librerias solicitadas en requeriments.txt y crear un entorno nuevo.
+
