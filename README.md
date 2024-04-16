@@ -1,5 +1,5 @@
 # Proyecto
-En este repositorio se encuentra el proyecto de mi diplomado.
+APLICACIÓN DE UN MODELO DESCRIPTIVO PARA EL ANÁLISIS DE LOS RESULTADOS EN LAS PRUEBAS SABER 11 DE LAS INSTITUCIONES EDUCATIVAS DE LA CIUDAD DE PASTO  .
 
 Su funcionalidad es predecir en el nivel que se encuentra un estudiante (superior, alto, medio, bajo)  de la Ciudad de Pasto, con respecto a sus resultados en las pruebas Saber 11 - 2022.
 
